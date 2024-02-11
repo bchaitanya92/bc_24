@@ -1,2 +1,3 @@
 # bc_24
-My First Repository
+My First Repository.
+Author : B CHAITANYA
